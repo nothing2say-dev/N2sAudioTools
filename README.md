@@ -22,7 +22,7 @@ pod "N2sAudioTools"
 
 ## Author
 
-Nothing2saY, nothing2say.cpe24@gmail.com
+Nothing2saY, nothing2say.studio@gmail.com
 
 ## License
 

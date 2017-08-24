@@ -1,0 +1,6 @@
+framework module N2sAudioTools {
+  umbrella header "N2sAudioTools-umbrella.h"
+
+  export *
+  module * { export * }
+}
