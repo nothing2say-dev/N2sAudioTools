@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'N2sAudioTools_Example' do
+  pod 'N2sAudioTools', :path => '../'
+
+  target 'N2sAudioTools_Tests' do
+    inherit! :search_paths
+
+    pod 'Quick', '~> 1.0.0'
+  pod 'Nimble', '~> 5.1.1'
+  pod 'FBSnapshotTestCase'
+  pod 'Nimble-Snapshots'
+  end
+end
